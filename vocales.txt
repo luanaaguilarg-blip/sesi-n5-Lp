@@ -1,0 +1,9 @@
+REPORTE DE VOCALES ENCONTRADAS
+==============================
+Texto analizado : La vida esta llena de sorpresas
+Total vocales   : 11
+  Vocal 'A/a': 5
+  Vocal 'E/e': 4
+  Vocal 'I/i': 1
+  Vocal 'O/o': 1
+  Vocal 'U/u': 0
