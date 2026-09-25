@@ -1,0 +1,5 @@
+Leandro Smith 5
+Jean Schutte 4.5
+Leandro Smith 2
+Jean Schutte 11
+Andrew Cox 1.5
